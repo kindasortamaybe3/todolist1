@@ -1,0 +1,23 @@
+body {
+  padding-left: 5rem;
+}
+
+header {
+  height: 12vh;
+}
+
+h1 {
+  color: rgb(140, 0, 255);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
+
+label {
+  padding-right: 1rem;
+}
+
+li {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  font-size: 1.2rem;
+}
